@@ -13,6 +13,8 @@ Maximum a Posteriori Estimation
 
 Bayesian Inference
 
+Bias - Varianve Dilemma
+
 Expectation - Maximization Method
 
 Teamwork with my colleagues Maria Kostopoulou and Konstantina Stoikou
