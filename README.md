@@ -1,7 +1,7 @@
 # Machine-Learning-Fundamentals
 A series of Machine Learning Problems and their solution
 
-Least Squares 
+Linear Least Squares 
 
 Biased versus Unbiased Estimator
 
